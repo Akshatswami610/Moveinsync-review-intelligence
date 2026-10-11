@@ -1,0 +1,12 @@
+
+.venv/
+venv/
+.env/
+env/
+__pycache__/
+.idea/
+.DS_Store
+
+data/*.csv
+
+outputs/negative_reviews_analysis.csv
