@@ -206,7 +206,7 @@ Specific recommendations should be finalized only after reviewing the generated 
 ## Author
 
 **Akshat Swami**
-LinkedIn: Add your LinkedIn profile URL
+LinkedIn: https://www.linkedin.com/in/akshatswami/
 
 ---
 
