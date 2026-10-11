@@ -1,4 +1,3 @@
-# 
 # MoveInSync Review Intelligence
 
 A Python-based data analysis project to investigate Google Play reviews of the MoveInSync employee commute app, identify potential causes of low ratings, and recommend data-driven product improvements.
@@ -116,6 +115,18 @@ Use the results to identify high-priority issues for further investigation. Reco
 | `complaint_themes.png` | Complaint category frequency chart |
 | `monthly_trends.png` | Average rating trend chart |
 
+
+## Visualizations
+
+### Rating Distribution
+![MoveInSync Rating Distribution](outputs/rating_distribution.png)
+
+### Complaint Themes
+![Complaint Themes](outputs/complaint_themes.png)
+
+### Monthly Rating Trends
+![Monthly Rating Trends](outputs/monthly_trends.png)
+
 ## How to Run Locally
 
 ### Prerequisites
@@ -206,7 +217,8 @@ Specific recommendations should be finalized only after reviewing the generated 
 ## Author
 
 **Akshat Swami**
-LinkedIn: Add your LinkedIn profile URL
+
+LinkedIn: https://www.linkedin.com/in/akshatswami/
 
 ---
 
