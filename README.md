@@ -115,6 +115,18 @@ Use the results to identify high-priority issues for further investigation. Reco
 | `complaint_themes.png` | Complaint category frequency chart |
 | `monthly_trends.png` | Average rating trend chart |
 
+
+## Visualizations
+
+### Rating Distribution
+![MoveInSync Rating Distribution](outputs/rating_distribution.png)
+
+### Complaint Themes
+![Complaint Themes](outputs/complaint_themes.png)
+
+### Monthly Rating Trends
+![Monthly Rating Trends](outputs/monthly_trends.png)
+
 ## How to Run Locally
 
 ### Prerequisites
